@@ -1,4 +1,5 @@
-##
+
+333WELJWQLEKQWLEMKQ33##
 ##'''Variant 1 '''
 #### Esimene ülesanne
 ##def list_sum(n): #Defineerime sum_listi
